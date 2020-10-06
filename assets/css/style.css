@@ -234,3 +234,8 @@ table, th, td {
     position: relative;
     font-weight: bold;
 }
+
+.anon{
+    margin-left: 50px;
+    display: inline;
+}
